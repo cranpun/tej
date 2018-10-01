@@ -1,0 +1,21 @@
+{
+  "name": "tranej",
+  "version": "1.0.0",
+  "description": "translate word en->ja or ja->en.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js ja word"
+  },
+  "repository": {
+    "type": "git",
+    "url": "norepo"
+  },
+  "keywords": [],
+  "author": "cranpun",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
+    "qs": "^6.5.2"
+  }
+}

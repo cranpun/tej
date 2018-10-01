@@ -2,7 +2,7 @@
 
 ## before use...
 
-1. make api on google app script
+1. make api on google app script (reference)[https://qiita.com/cranpun/items/7ed08f855359c9c28a33]
 1. create .env from .env.sample
 
 ## how to use

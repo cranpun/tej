@@ -1,7 +1,9 @@
 const axios = require("axios");
 const qs = require("qs");
+const path = require("path");
 
-require("dotenv").config();
+const envpath = path.resolve(__dirname, ".env");
+require("dotenv").config({path: envpath});
 
 const trans = (word, source, target) => {
     const url = process.env.API_URL;

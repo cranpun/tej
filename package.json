@@ -14,8 +14,8 @@
   "author": "cranpun",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
-    "dotenv": "^6.0.0",
-    "qs": "^6.5.2"
+    "axios": "^0.24.0",
+    "dotenv": "^13.0.1",
+    "qs": "^6.10.3"
   }
 }
